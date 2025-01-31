@@ -1,0 +1,6 @@
+{
+    "name": "Test Token",
+    "symbol": "NEWCOIN",
+    "description": "Test Coin description",
+    "image": "https://raw.githubusercontent.com/ilhamtuut/token/refs/heads/master/123123.png"
+}
