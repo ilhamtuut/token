@@ -1,6 +1,6 @@
 {
-    "name": "Test Token",
-    "symbol": "NEWCOIN",
-    "description": "Test Coin description",
+    "name": "Wan Token",
+    "symbol": "WAT",
+    "description": "Wan Token is supercoin in solana",
     "image": "https://raw.githubusercontent.com/ilhamtuut/token/refs/heads/master/123123.png"
 }
